@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Node (in case someone runs the scripts via a package.json wrapper)
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# Local scratch output from the scripts
+*.tmp
